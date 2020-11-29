@@ -62,3 +62,23 @@ ul {
     padding: 12px 12px 12px 0;
     display: inline-block;
  }
+.intro
+{
+  text-align: center;
+}
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section {
+  width: 50%;
+  height: 100%;
+}
+
+video {
+  width: 100%;
+  height: 56.25%;
+  margin-top: 21.875%;
+}
